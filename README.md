@@ -7,13 +7,6 @@
 - 🌱 I’m currently researching Portfolio Management based on RL
 - 🤔 How to contact me: eppioes@gmail.com
 
-### Edu
-| Date              | Contents                    | Organization        |
-|-------------------|-----------------------------|---------------------|
-| 2017.03 ~ 2022.02 | Department of Matheducation | Pusan national Univ |
-| 2022.03 ~         | Department of AI            | Chung-Ang Univ      |
-|                   |                             |                     |
-
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Hyun-Jun)](https://github.com/anuraghazra/github-readme-stats)
 
