@@ -10,6 +10,7 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Hyun-Jun)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://img.shields.io/badge/Notion-#000000?style=for-the-badge&logo=Notion&logoColor=white">
 
 <!--
 **Yang-Hyun-Jun/Yang-Hyun-Jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
