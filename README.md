@@ -5,8 +5,8 @@
 - 📫 RAI Lab: https://sites.google.com/view/railab
 - 🔭 Research interests: Algorithmic Trading, Reinforcement Learning
 - 🌱 I’m currently researching Portfolio Management based on RL
-- 🤔 How to contact me: eppioes@gmail.com
-<br/>
+- 🤔 How to contact me: eppioes@gmail.com <br/>
+
 ### ME 💬
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat square&logo=Pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat square&logo=TensorFlow&logoColor=white"/></a>
