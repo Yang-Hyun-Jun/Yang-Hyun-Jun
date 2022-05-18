@@ -7,10 +7,11 @@
 - 🌱 I’m currently researching Portfolio Management based on RL
 - 🤔 How to contact me: eppioes@gmail.com
 
+### ME 💬
+<a href="https://www.notion.so/4ced5dfb89f44f7dbcef2db8faa058fb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Hyun-Jun)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://www.notion.so/4ced5dfb89f44f7dbcef2db8faa058fb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!--
 **Yang-Hyun-Jun/Yang-Hyun-Jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
