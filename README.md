@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+- 📫 RAI Lab: https://sites.google.com/view/railab
 - 🔭 Research interests: Algorithmic Trading, Reinforcement Learning
-- 🌱 I’m currently researching Portfolio Management
+- 🌱 I’m currently researching Portfolio Management based on RL
 - 🤔 How to contact me: eppioes@gmail.com
 
 <!--
