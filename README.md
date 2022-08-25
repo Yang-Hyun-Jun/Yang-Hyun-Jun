@@ -4,8 +4,8 @@
 
 - 📫 **RAI Lab:** https://sites.google.com/view/railab
 - 🔭 **Research interests:** Algorithmic Trading, Reinforcement Learning
-- 🌱 **Current research:** Portfolio Management based on RL (under experiment)
-- :notes: **Collabo task:** Recommender Systems based on RL (soon)
+- 🌱 **Current research:** Portfolio Management based on RL 
+- :notes: **Collabo task:** Recommender Systems based on RL 
 - 🤔 **How to contact me:** eppioes@gmail.com <br/>
 
 ### Career :school:
