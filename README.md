@@ -8,6 +8,11 @@
 - :notes: **Collabo task:** Recommender Systems based on RL 
 - 🤔 **How to contact me:** eppioes@gmail.com <br/>
 
+### Research Projects :notes:
+- Recommender system for developing of emotion recognition
+- Stock price forecasting
+
+
 ### Career :school:
 - 2017.03 ~ 2022.02 Department of Matheducation at PNU
 - 2022.03 ~         Department of AI, MS student at CAU
