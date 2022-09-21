@@ -13,7 +13,7 @@
 - 2022.03 ~         Department of AI, MS student at CAU
 
 ### Awards :mega:
-- 2022.08 LG AI research AI Graduate School Challenge
+- 2022.08 LG AI research AI Graduate School Challenge (B-cell epitope prediction)
 
 ### ME 💬
 <a href="https://www.notion.so/4ced5dfb89f44f7dbcef2db8faa058fb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white"/></a>
