@@ -16,7 +16,8 @@
 <a href="https://www.notion.so/4ced5dfb89f44f7dbcef2db8faa058fb" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat square&logo=Notion&logoColor=white"/></a>
 <a href="eppioes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-### Awards :Trophy:
+### Awards :mega:
+-2022.08 LG AI research AI Graduate School Challenge
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yang-Hyun-Jun)](https://github.com/anuraghazra/github-readme-stats)
 
