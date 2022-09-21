@@ -5,12 +5,12 @@
 - 📫 **RAI Lab:** https://sites.google.com/view/railab
 - 🔭 **Research interests:** Algorithmic Trading, Reinforcement Learning
 - 🌱 **Current research:** Portfolio Management based on RL 
-- :notes: **Collabo task:** Recommender Systems based on RL 
 - 🤔 **How to contact me:** eppioes@gmail.com <br/>
 
 ### Research Projects :notes:
 - Recommender system for developing of emotion recognition
 - Stock price forecasting
+- Quant trading system
 
 
 ### Career :school:
