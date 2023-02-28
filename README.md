@@ -8,7 +8,6 @@
 - 🤔 **How to contact me:** eppioes@gmail.com <br/>
 
 ### Research Projects :notes:
-- Cosmetic recommender system with Artlab
 - Recommender system for developing of emotion recognition
 - Portfolio Management
 
