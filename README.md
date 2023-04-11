@@ -4,7 +4,7 @@
 
 - 📫 **RAI Lab:** https://sites.google.com/view/railab
 - 🔭 **Research interests:** Portfolio Management, Reinforcement Learning
-- 🌱 **Current research:** Portfolio Management based on RL 
+- 🌱 **Current research:** Portfolio Management based on reinforcement learning
 - 🤔 **How to contact me:** eppioes@gmail.com <br/>
 
 ### Research Projects :notes:
