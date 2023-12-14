@@ -14,7 +14,8 @@
 
 ### Career :school:
 - 2017.03 ~ 2022.02 Department of Matheducation at PNU
-- 2022.03 ~         Department of AI, MS student at CAU
+- 2022.03 ~ 2024.02 Department of AI, MS student at CAU
+- 2023.11 ~         Silentist Inc, Quant Research Internship
 
 ### Awards :mega:
 - 2022.08 LG AI research AI Graduate School Challenge (B-cell epitope prediction)
